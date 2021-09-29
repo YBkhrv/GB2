@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebStore.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:WebStore.Domain.Entities.Base.BaseEntity">
+            <summary>Базовая сущность</summary>
+        </member>
+        <member name="P:WebStore.Domain.Entities.Base.BaseEntity.Id">
+            <summary>Идентификатор</summary>
+        </member>
+        <member name="T:WebStore.Domain.Entities.Employees.Employee">
+            <summary>Информация о сотруднике</summary>
+        </member>
+        <member name="P:WebStore.Domain.Entities.Employees.Employee.FirstName">
+            <summary>Имя</summary>
+        </member>
+        <member name="P:WebStore.Domain.Entities.Employees.Employee.Surname">
+            <summary>Фамилия</summary>
+        </member>
+        <member name="P:WebStore.Domain.Entities.Employees.Employee.Patronymic">
+            <summary>Отчество</summary>
+        </member>
+        <member name="P:WebStore.Domain.Entities.Employees.Employee.Age">
+            <summary>Возраст</summary>
+        </member>
+    </members>
+</doc>
